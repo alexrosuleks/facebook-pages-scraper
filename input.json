@@ -1,0 +1,21 @@
+{
+  "startUrls": [
+    {
+      "url": "https://www.facebook.com/copperkettleyqr/"
+    },
+    {
+      "url": "https://www.facebook.com/nasaearth"
+    },
+    {
+      "url": "https://www.facebook.com/HiltonGardenInnMontrealAirport/"
+    }
+  ],
+  "resultsLimit": 10,
+  "includeProfiles": true,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
